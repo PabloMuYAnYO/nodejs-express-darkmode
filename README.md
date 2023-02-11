@@ -1,8 +1,8 @@
 # nodejs-express-darkmode
 
-> Utilizado el app.js y añadida la función darkmode
+> Utilizado el app.js y añadida función para DarkMode
 
-Contar de que forma esta hecho, como funciona y cual es el objetivo en concreto de este proyecto.
+En el app.js se a añadido un app.use para poder usar un script externo ubicado en /public/javascripts/ y poder evitar inyectarlo en el index.ejs
 
 ### Setup proyecto
 
