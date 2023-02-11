@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  background-color: #fff;
+  color: #000;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: #000;
+  color: #fff;
+}
