@@ -1,6 +1,6 @@
 # nodejs-express-darkmode
 
-> Pequeña descripción corta.
+> Utilizado el app.js y añadida la función darkmode
 
 Contar de que forma esta hecho, como funciona y cual es el objetivo en concreto de este proyecto.
 
