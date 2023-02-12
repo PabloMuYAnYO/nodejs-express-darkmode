@@ -25,9 +25,9 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
 app.use(express.static(path.join(__dirname, 'public')));
-// ? Agregar un favicon
+// ? 1 ejemplo agregar un favicon 
 // app.use(favicon(path.join(__dirname, 'public', './drive/upload/icons8-internet-explorer-50.png')));
-// ? External js in an EJS template
+// ? 2 .js externo en una plantilla EJS
 app.use(express.static(path.join(__dirname, 'public','./public/javascripts/darkmode.js')));
 
 // ! catch 404 and forward to error handler

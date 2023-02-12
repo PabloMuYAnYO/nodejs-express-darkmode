@@ -6,6 +6,7 @@ body {
   font-size: 25px;
 }
 
+/* * LA CLASE CON LOS ESTILOS NECESARIOS PARA USAR UN TOGGLE * */
 .dark-mode {
   background-color: #000;
   color: #fff;
